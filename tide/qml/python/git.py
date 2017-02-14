@@ -1,5 +1,18 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+ # Copyright (C) 2017  Teemu Makkonen
+ #
+ # This file is free software; you can redistribute it and/or modify
+ # it under the terms of the GNU General Public License as published by
+ # the Free Software Foundation. You may also find the details of GPL v3 at:
+ # http://www.gnu.org/licenses/gpl-3.0.txt
+ #
+ # If you have any questions regarding the use of this file, feel free to
+ # contact the author of this file, or the owner of the project in which
+ # this file belongs to.
+
+
 import subprocess, time
 
 #Inits repo
