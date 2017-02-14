@@ -400,6 +400,21 @@
     </message>
 </context>
 <context>
+    <name>GitPage</name>
+    <message>
+        <source>Git</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Git status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You need to init git first</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MainPage</name>
     <message>
         <source>Projects</source>
@@ -446,6 +461,10 @@
     </message>
     <message>
         <source>Deleting project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Git</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

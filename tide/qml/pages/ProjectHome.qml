@@ -53,6 +53,12 @@ Page {
                 }
             }
             MenuItem {
+                text: qsTr("Git")
+                onClicked: {
+                    pageStack.push(Qt.resolvedUrl("GitPage.qml"))
+                }
+            }
+            MenuItem {
                 visible:!rootMode
                 enabled:visible
                 text: qsTr("Build the app")
